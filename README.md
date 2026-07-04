@@ -14,7 +14,7 @@ $$
 
 The public small cases use a \(4 \times 5\) grid, so \(n=20\).  The graph topology is shared by all objectives.
 
-![Grid topology](grid_topology.pn)
+![Grid topology](grid_topology.png)
 
 For \(k=5\) objectives, the \(t\)-th objective is an Ising energy
 
