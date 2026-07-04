@@ -14,7 +14,7 @@ $$
 
 The public small cases use a \(4 \times 5\) grid, so \(n=20\).  The graph topology is shared by all objectives.
 
-![Grid topology](./grid_topology.pn)
+![Grid topology](grid_topology.pn)
 
 For \(k=5\) objectives, the \(t\)-th objective is an Ising energy
 
@@ -79,7 +79,7 @@ $$
 
 where \(\lambda_k\) is \(k\)-dimensional Lebesgue measure.
 
-![Pareto hypervolume](./pareto_hv.png)
+![Pareto hypervolume](pareto_hv.png)
 
 The small-task score is based on improvement over the official baseline:
 
